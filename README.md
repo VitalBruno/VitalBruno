@@ -1,5 +1,11 @@
-### Hi there 👋
+### Oie sou Bruno Vital  👋
+Atualmente, estou trabalhando no desenvolvimento de programas de maquinas PnP. Tenho aprendido muito sobre as demandas do mercado, sobre produção em massa e sobre a conceitos de automatização.
 
+<div> 
+  <a href="https://www.instagram.com/vitalbrunoc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-vital-276b1221b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 <!--
 **VitalBruno/VitalBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
